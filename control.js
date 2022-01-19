@@ -350,7 +350,7 @@ function total (){
         document.querySelectorAll('.result h3')[0].textContent="فوق المتوسط";
         document.querySelectorAll('.result p')[1].innerHTML =`انت شخص توصف انك خجول
         لديك مشاعر عدم رضا عن الذات او عن شئ ما اخر قد لا تبالي بما يحدث لك او تعلمت التكيف والتوافق مع مشاعرك الاكتئابية
-        لكن لا تدرك حالتك علي انها إكتئابية   
+        لكن لا تدرك حالتك علي انها اكتئاب   
         `
     }
     else if ( score > 35 ){
